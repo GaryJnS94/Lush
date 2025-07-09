@@ -288,12 +288,10 @@ footer p {
 
 .garden-box {
   position: relative;
-  display: inline-block;
   width: 100%;
 }
 
 .bot-bg {
-  display: block;
   width: 100%;
   height: auto;
 }
